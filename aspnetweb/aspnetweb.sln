@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2009
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetweb", "aspnetweb\aspnetweb.csproj", "{CC3D040B-2718-4E75-AE82-EB843589E8DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uniteste", "uniteste\uniteste.csproj", "{5E045F89-317F-47A5-AF97-810ADA6BC4C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CC3D040B-2718-4E75-AE82-EB843589E8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC3D040B-2718-4E75-AE82-EB843589E8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC3D040B-2718-4E75-AE82-EB843589E8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E045F89-317F-47A5-AF97-810ADA6BC4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E045F89-317F-47A5-AF97-810ADA6BC4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E045F89-317F-47A5-AF97-810ADA6BC4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E045F89-317F-47A5-AF97-810ADA6BC4C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
